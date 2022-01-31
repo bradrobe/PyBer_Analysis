@@ -12,6 +12,7 @@ The results of our analysis indicate Rural cities earn the highest fare average 
 
  
 ## Summary:
+![this is an image](https://github.com/bradrobe/PyBer_Analysis/blob/main/total_fare_per_city.png)
 
 1.	The rural city drivers should increase advertisement for their area to increase visibility.
 
